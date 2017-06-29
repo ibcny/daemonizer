@@ -3,8 +3,6 @@
  * daemonizer 
  * A General purpose Unix daemon trace
  *
- * Copyright (C) 2012 Ibrahim Can Yuce <canyuce@gmail.com>
- *
  * ----------------------------------------------------------------------------
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
