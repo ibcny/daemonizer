@@ -36,9 +36,9 @@ int main(int argc, char* argv[]) {
 
 	initLogging();
 
-	signal(SIGTERM, signalHandler); /* software termination signal from kill */
-	signal(SIGINT, signalHandler); /* software termination signal from kill */
-	signal(SIGSEGV, signalHandler); /* software termination signal from kill */
+	signal(SIGTERM, signalHandler); /* termination signal from kill */
+	signal(SIGINT, signalHandler); /* termination signal from kill */
+	signal(SIGSEGV, signalHandler); /* termination signal from kill */
 
 	daemonize();
 
