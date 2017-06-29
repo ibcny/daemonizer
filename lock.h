@@ -1,7 +1,7 @@
 /*
  * ----------------------------------------------------------------------------
  * daemonizer
- * Unix daemon template implementation
+ * A General purpose Unix daemon trace
  *
  * Copyright (C) 2012 Ibrahim Can Yuce <canyuce@gmail.com>
  *
